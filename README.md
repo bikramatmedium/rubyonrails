@@ -2,17 +2,17 @@
 7th Nov 2021
 ### Location of deployed application
 
-App - https://thinkfic-app.devopsonline.co.in/
+- App - https://thinkfic-app.devopsonline.co.in/
+- Username - bikram
+- Password - xtMDG7jUze
 
-Username - bikram
-Password - xtMDG7jUze
+- Monitoring Matrics - https://thinkfic-app.devopsonline.co.in/metrics
 
-Monitoring Matrics - https://thinkfic-app.devopsonline.co.in/metrics
+- ElasticSearch UI - http://34.125.150.162:9200/_cat/indices?v
 
-ElasticSearch UI - http://34.125.150.162:9200/_cat/indices?v
-Kibana dashboard - http://34.125.150.162:5601/
+- Kibana dashboard - http://34.125.150.162:5601/
 
-Kibana logs - http://34.125.150.162:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&_a=(columns:!(),filters:!(),index:'7c87b1d0-3f1a-11ec-bded-fb6e57d7217c',interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))
+- Kibana logs - http://34.125.150.162:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&_a=(columns:!(),filters:!(),index:'7c87b1d0-3f1a-11ec-bded-fb6e57d7217c',interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))
 
 ### Time spent
 8 hours 
