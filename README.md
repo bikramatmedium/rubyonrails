@@ -30,7 +30,7 @@ Yes, Instead of ec2 deployment, we can use ecs fargate deployment. I have also m
 ### Stretch goals attempted
 
 ### Instructions to run assignments locally
-If We want to run the same setup, we can just follow the setup document attached in the mail.
+If We want to run the same setup, we can just follow the above setup document link.
 ### What did you not include in your solution that you want us to know about?
 - I have included the EKF solution that was not mentioned in this task.
 - I have also provided one more architecture diagram that is not part of the task.
@@ -38,4 +38,4 @@ If We want to run the same setup, we can just follow the setup document attached
 ### Other information about your submission that you feel it's important that we know if applicable.
 ### Your feedback on this technical challenge
 
-I have created a very simple document for those who want to do the setup from the scratch with all steps and personally I like all tasks. Thank you
+Personally I like all tasks. Thank you
