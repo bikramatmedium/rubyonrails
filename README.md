@@ -38,5 +38,4 @@ If We want to run the same setup, we can just follow the setup document attached
 ### Other information about your submission that you feel it's important that we know if applicable.
 ### Your feedback on this technical challenge
 
-I have created a very simple document for those who want to do the setup from the scratch with all steps.
-Personally, I like all tasks
+I have created a very simple document for those who want to do the setup from the scratch with all steps and personally I like all tasks. Thank you
