@@ -3,8 +3,9 @@
 ### Location of deployed application
 
 - App - https://thinkfic-app.devopsonline.co.in/
-- Username - bikram
-- Password - xtMDG7jUze
+
+Username - bikram
+Password - xtMDG7jUze
 
 - Monitoring Matrics - https://thinkfic-app.devopsonline.co.in/metrics
 
