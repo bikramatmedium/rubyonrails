@@ -15,6 +15,8 @@ Password - xtMDG7jUze
 
 - Kibana logs - http://34.125.150.162:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&_a=(columns:!(),filters:!(),index:'7c87b1d0-3f1a-11ec-bded-fb6e57d7217c',interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))
 
+- Setup documents - https://docs.google.com/document/d/1Z9_EHD8VtutKU8ed6JnpQKgZ2AgLW0s4rWySARE4th8/edit?usp=sharing
+
 ### Time spent
 8 hours 
 ### Assumptions made
