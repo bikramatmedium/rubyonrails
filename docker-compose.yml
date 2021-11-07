@@ -13,11 +13,11 @@ services:
       - .:/myapp
     ports:
       - "3000:3000"
-    logging:
-      driver: fluentd
-      options:
-        tag: docker
-        fluentd-address: 127.0.0.1:24224
+   logging:
+     driver: fluentd
+     options:
+      tag: docker
+      fluentd-address: 127.0.0.1:24224
     depends_on:
       - db
 
